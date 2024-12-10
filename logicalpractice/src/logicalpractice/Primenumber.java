@@ -1,6 +1,6 @@
 package logicalpractice;
 /*
- * 123411221212
+ * 123411221212e
  */
 public class Primenumber {
 
