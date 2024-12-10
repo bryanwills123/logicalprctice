@@ -1,5 +1,7 @@
 package logicalpractice;
-
+/*
+ * 1234
+ */
 public class Primenumber {
 
 	public static void main(String[] args) {
